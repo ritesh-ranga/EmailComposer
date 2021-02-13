@@ -1,0 +1,17 @@
+﻿Dear @@RECEIVER_FIRST_NAME@@,
+
+While I was looking forward to our meeting on @@ORIGINAL_DATE@@, I regretfully will have to reschedule.
+
+I am still very interested in meeting. I am available on @@NEW_DATE_1@@ and @@NEW_DATE_2@@. However, if these dates do not work for you, please let me know when you might be able to meet.
+
+I apologize for any inconvenience this may cause, and I look forward to meeting with you on a different date.
+
+Sincerely,
+@@SENDER_FIRST_NAME@@
+
+@@@PLACEHOLDERS@@@
+@@RECEIVER_FIRST_NAME@@|string,
+@@ORIGINAL_DATE@@|datetime,
+@@NEW_DATE_1@@|datetime,
+@@NEW_DATE_2@@|datetime,
+@@SENDER_FIRST_NAME@@|string

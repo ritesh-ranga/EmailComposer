@@ -1,0 +1,22 @@
+﻿Hello @@FIRST_NAME@@,
+
+Welcome to Web Summit Network! We are looking forward to seeing you at the next conference and sharing our inbound content with you.
+
+Please find the event details as below:
+When: @@EVENT_DATE@@
+Topic: @@EVENT_TOPIC@@
+Address: @@EVENT_ADDRESS@@
+No. of attendes: @@NO_OF_ATTENDES@@
+
+In the meantime, visit our website on how to network at events.
+We look forward to seeing you there.
+
+Best,
+Web Summit Network Team
+
+@@@PLACEHOLDERS@@@
+@@FIRST_NAME@@|string,
+@@EVENT_DATE@@|datetime,
+@@EVENT_TOPIC@@|string,
+@@EVENT_ADDRESS@@|string,
+@@NO_OF_ATTENDES@@|number
